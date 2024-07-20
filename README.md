@@ -1,6 +1,12 @@
 # flutter_chatbot
-
 A new Flutter project.
+
+<img src="images/ChatBot1.png" alt="screen de login" width="300"/>
+<br>
+<img src="images/ChatBot2.png" alt="screen de chat" width="300"/>
+
+
+
 
 ## Getting Started
 
